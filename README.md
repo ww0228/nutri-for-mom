@@ -1,10 +1,7 @@
 # 🌸 NutriForMom 
 
 ## 💡 Description
-NutriForMom is a community-driven initiative that ensures all expecting and new mothers, regardless of background or financial situation, have access to nutritious meals for themselves and their children.  
-The project supports SDG 2: Zero Hunger, focusing on prenatal and postnatal moms affected by malnutrition due to poverty, discrimination, and limited mobility.  
-
----
+NutriForMom is a web-based fundraising platform that helps ensure every expecting and new mother has access to nutritious meals, regardless of background or financial situation. The platform supports SDG 2: Zero Hunger, focusing on prenatal and postnatal mothers facing malnutrition due to poverty, inequality, or limited mobility.
 
 ## 🧩 Methodology
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,8 +11,6 @@ The project supports SDG 2: Zero Hunger, focusing on prenatal and postnatal moms
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
 
 ## 🌐 Core Web Features
 
